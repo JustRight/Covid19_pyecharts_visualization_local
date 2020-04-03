@@ -75,7 +75,7 @@
                                 var chart = echarts.init(document.getElementById('chart'), 'white', {renderer: 'canvas'});
                                 $.ajax({
                                     type: "GET",
-                                    url: "http://139.224.2.57:776/barChart",
+                                    url: "http://localhost:776/barChart",
                                     dataType: 'json',
                                     success: function (result) {
                                         chart.setOption(result);

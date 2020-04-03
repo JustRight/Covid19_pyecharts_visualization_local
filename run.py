@@ -101,5 +101,5 @@ def get_map_chart():
 
 
 if __name__ == "__main__":
-    app.run(host='139.224.2.57',
+    app.run(host='localhost',
             port=776)
