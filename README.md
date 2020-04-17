@@ -1,5 +1,6 @@
 # Covid19_pyecharts_visualization_local
-基于Python + Flask + PyEcharts + Bootstrap实现的疫情可视化平台
+基于Python + Flask + PyEcharts + Bootstrap实现的疫情可视化平台demo  
+http://139.224.2.57:776
 
 # 依赖库
 | Dependency | Version |  
