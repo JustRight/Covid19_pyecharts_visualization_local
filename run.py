@@ -82,6 +82,8 @@ def lineChart():
     return render_template("lineChart.html")
 
 
+
+
 @app.route("/barChart")
 def get_bar_chart():
     c = bar_base()
